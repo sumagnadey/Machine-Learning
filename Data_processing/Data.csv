@@ -2,10 +2,10 @@ A,B,C,F
 cat,44,72000,No
 dog,27,48000,Yes
 lion,30,54000,No
-elephent,38,61000,No
-tiger,40,,Yes
-bird,35,58000,Yes
-snake,,52000,No
-turtle,48,79000,Yes
-bat,50,83000,No
-butterfly,37,67000,Yes
+dog,38,61000,No
+cat,40,,Yes
+lion,35,58000,Yes
+dog,,52000,No
+cat,48,79000,Yes
+lion,50,83000,No
+dog,37,67000,Yes
